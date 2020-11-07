@@ -1,0 +1,22 @@
+*
+The parameter to this Person's grab function is a weapon pointer "wp"
+
+if(nothing in right hand && right hand strength >= strength reqd)
+     put weapon in right hand.  That is:
+     rhw=wp;
+
+ else if(nothing in left hand && left hand strength >= strength reqd)
+     put weapon in left hand.  That is:
+     lhw=wp;
+ else
+  if(nothing in left and nothing in right and lhstrength+rhstrength >= strength reqd)
+
+a little logic to return true or false depending whether wp has been assigned to rhw and/or lhw
+
+ Person data
+   Name
+   evasion
+   lhstrength
+   rhstrength
+   Weapon* rhw
+   Weapon* lhw

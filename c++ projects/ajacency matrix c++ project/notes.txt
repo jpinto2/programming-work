@@ -1,0 +1,14 @@
+See nov 16 for how to incorporate a function into a priority queue
+
+//approximation for distance remaining
+//I'll provide this
+int distance_between_hexes(unsigned int starthex, unsigned int endhex)
+
+//This function is what is passed to the priority queue when it is
+created. Note, therefore, that est_tot_dist is a global variable:
+std::vector<unsigned int> est_tot_dist;
+bool which_is_closer(unsigned int a, unsigned int b)
+{
+  return est_total_dist[a] > est_tot_dist[b]
+}
+

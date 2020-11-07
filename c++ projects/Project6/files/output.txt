@@ -1,0 +1,56 @@
+===
+  Type:       Machete
+  Str. Reqd:  5
+  Dmg. Bonus: 6
+  Use Remain: 4
+Who should get this weapon? 
+0) Todd "Zombie Hunter" Gibson
+1) Robert "Zombie Bait" Hughson
+2) Nobody
+0
+===
+  Type:       Crossbow
+  Str. Reqd:  3
+  Dmg. Bonus: 5
+  Use Remain: 6
+Who should get this weapon? 
+0) Todd "Zombie Hunter" Gibson
+1) Robert "Zombie Bait" Hughson
+2) Nobody
+1
+===
+  Type:       Pistol
+  Str. Reqd:  2
+  Dmg. Bonus: 8
+  Use Remain: 3
+Who should get this weapon? 
+0) Todd "Zombie Hunter" Gibson
+1) Robert "Zombie Bait" Hughson
+2) Nobody
+1
+Can't take weapon!
+===
+  Type:       Pistol
+  Str. Reqd:  2
+  Dmg. Bonus: 8
+  Use Remain: 3
+Who should get this weapon? 
+0) Todd "Zombie Hunter" Gibson
+1) Robert "Zombie Bait" Hughson
+2) Nobody
+2
+LET THE COMBAT BEGIN!
+Number of Zombies: 2
+Number of Survivors: 2
+Todd "Zombie Hunter" Gibson kills Zombie!
+Number of Zombies: 1
+Number of Survivors: 2
+Robert "Zombie Bait" Hughson has been bitten!
+Number of Zombies: 2
+Number of Survivors: 1
+Todd "Zombie Hunter" Gibson kills Zombie!
+Number of Zombies: 1
+Number of Survivors: 1
+Todd "Zombie Hunter" Gibson kills Zombie!
+Number of Zombies: 0
+Number of Survivors: 1

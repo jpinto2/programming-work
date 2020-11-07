@@ -1,0 +1,28 @@
+
+{% load static %}
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{% block title %}{% endblock %} </title>
+
+    <link rel="stylesheet" href="{% static "css/foundation.css" %}">
+    <link rel="stylesheet" href="{% static "css/app.css" %}">
+
+  </head>
+  <body>
+    {% block content %}{% endblock %}
+
+    <div class="grid-x grid-padding-x">                 	
+	<div class="primary callout">
+          <p style="color:red;"><strong>CINS465 Hello World</strong></p>
+        </div>
+       </div>
+
+
+  </body>
+</html>

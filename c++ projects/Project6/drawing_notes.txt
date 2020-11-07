@@ -1,0 +1,31 @@
+* if(nothing in right hand && right hand strength >= strength reqd)
+     put weapon in right hand.  That is:
+     rhw=candidate_weap;
+
+ else if(nothing in left hand && left hand strength >= strength reqd)
+     put weapon in left hand.  That is:
+     lhw=candidate_weap;
+ else
+
+
+ class Knight {
+ private:
+   Weapon w_i_h;
+   ...
+};
+
+
+Knight k;
+
+class Date {
+  private:
+    int day;
+    int month;
+    int year;
+};
+
+Date dt;
+
+
+
+

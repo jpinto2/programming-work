@@ -1,0 +1,6 @@
+﻿  roughmaze.cpp
+c:\users\john\desktop\sdl\sdlproject\sdlproject\roughmaze.cpp(338): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\john\desktop\sdl\sdlproject\sdlproject\roughmaze.cpp(346): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\sdl\sdlproject\sdlproject\roughmaze.cpp(349): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\sdl\sdlproject\sdlproject\roughmaze.cpp(350): warning C4018: '<': signed/unsigned mismatch
+  SDLProject.vcxproj -> C:\Users\John\Desktop\SDL\SDLProject\Debug\SDLProject.exe

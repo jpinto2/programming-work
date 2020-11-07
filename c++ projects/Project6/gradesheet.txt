@@ -1,0 +1,32 @@
+XX/ 5 Program compiles successfully
+
+XX/10 Program runs according to specifications
+
+XX/ 5  Project has a Makefile
+
+XX/ 5 Constructors are used with Person, Zombie, and Weapon classes
+
+XX/ 5 Initialization lists are used in Person, Zombie, and Weapon constructors
+
+XX/ 5 ZCS manages lists of Zombies, Weapons, and Persons
+
+XX/ 5 Person, Zombie, and Weapon objects are created in main and pushed on to lists in ZCS.
+
+XX/ 5 main-function successfully reads in weapon, zombie, and person files
+
+XX/10 Person has a member function that accepts a Weapon pointer and correctly decides whether the weapon goes in one hand, both hands, or can't be held.
+
+XX/ 5 Person has member function to wield weapon that correctly returns sum of strengths and weapon bonuses (if any)
+
+XX/ 5 Player drops weapon(s) if bitten
+
+XX/ 5 Weapon returns zero for damage bonus if the number of uses has been exceeded
+
+XX/ 5 Zombie bite attempt randomly ranges from 1 to its maximum attack value
+
+XX/10 ZCS correctly assigns weapons to persons as represented in sequence diagram.
+
+XX/ 5 A battle between a person and a zombie continues until either the person is bitten or the zombie loses all of its "health"
+
+XX/10 The fight between the horde of zombies and group of persons ends when either one or the other is completely eliminated.
+

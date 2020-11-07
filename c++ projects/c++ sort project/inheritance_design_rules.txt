@@ -1,0 +1,7 @@
+If a function's behavior and signature are identical in all derived classes, then abstract the function into the base class.  Remove it from all derived classes.
+
+float function(int par1, float par2, char par3); <<<---signature
+
+If a function's signature is identical in all derived classes, but the behavior
+is different, then abstract up the signature and put the word "virtual" in
+front of it. Each derived class will write their own version of the function.

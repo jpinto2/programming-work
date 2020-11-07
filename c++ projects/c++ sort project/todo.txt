@@ -1,0 +1,9 @@
+1. Pick the sorting class you are most comfortable with. Start writing Sort.cpp using Sort.h as a guide. Functions which are identical between the different Sorting classes should be removed and put inside of the base class.
+
+Functions in Heapsort:
+	add //Move into base
+  sort
+	display //Move into base
+	internal_sort //private
+	right //private
+	left //private

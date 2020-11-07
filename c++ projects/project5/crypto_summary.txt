@@ -1,0 +1,34 @@
+You will write two programs: encode & decode
+Every program you have written this semester has required a main-function.
+Therefore in this project you will turn in 2 main-functions.
+1) encode takes text (can take many lines) from cin
+   encode spits out a code (that is, a sequence of numbers) to cout
+
+2) decode takes a code (that is, a sequence of numbers) from cin
+   decode spits out text (can spit out many lines) to cout
+
+There is a rotors.txt file. This file is not something you turn in, it is something that is created and shared between the spies.
+
+3 5
+2 8
+1 7
+9 6
+
+int main()
+{
+  CryptMachine cm("rotors.txt");
+}
+
+if(a==5)
+{
+  float b;
+  ....
+}
+
+CryptoMachine::CryptoMachine(string fname)
+{
+   vector<Rotor> spindle; //wrong
+   ifstream inf( fname.c_str() );
+   //read in pairs of numbers form inf and put them into spindle
+   //close file
+}

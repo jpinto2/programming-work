@@ -1,0 +1,11 @@
+Classes involved:
+ZCS
+Person
+Weapon
+
+
+Main function will:
+1) Create a ZCS object
+2) open up group.txt & cache.txt files, create Weapon & Person objects, and
+   call ZCS's add_weapon & add_person member functions
+3) call ZCS's assign_weapons member function. The behavior of this function is described in the sequence diagram
